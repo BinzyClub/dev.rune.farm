@@ -3,12 +3,12 @@
     "main.css": "/static/css/main.e962a8d7.chunk.css",
     "main.js": "/static/js/main.c9f4b976.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.68c50997.js",
-    "static/js/2.1ce32ea6.chunk.js": "/static/js/2.1ce32ea6.chunk.js",
+    "static/js/2.1b5b5814.chunk.js": "/static/js/2.1b5b5814.chunk.js",
     "static/js/3.bd33a8e4.chunk.js": "/static/js/3.bd33a8e4.chunk.js",
     "static/js/4.fdad0219.chunk.js": "/static/js/4.fdad0219.chunk.js",
     "static/js/5.927719a6.chunk.js": "/static/js/5.927719a6.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.1ce32ea6.chunk.js.LICENSE.txt": "/static/js/2.1ce32ea6.chunk.js.LICENSE.txt",
+    "static/js/2.1b5b5814.chunk.js.LICENSE.txt": "/static/js/2.1b5b5814.chunk.js.LICENSE.txt",
     "static/js/3.bd33a8e4.chunk.js.LICENSE.txt": "/static/js/3.bd33a8e4.chunk.js.LICENSE.txt",
     "static/js/4.fdad0219.chunk.js.LICENSE.txt": "/static/js/4.fdad0219.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/tyrael.151fb006.gif",
@@ -18,7 +18,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.68c50997.js",
-    "static/js/2.1ce32ea6.chunk.js",
+    "static/js/2.1b5b5814.chunk.js",
     "static/css/main.e962a8d7.chunk.css",
     "static/js/main.c9f4b976.chunk.js"
   ]
