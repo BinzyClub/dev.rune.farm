@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5255d68.chunk.css",
-    "main.js": "/static/js/main.b9fa4e86.chunk.js",
+    "main.css": "/static/css/main.6a3f0d3a.chunk.css",
+    "main.js": "/static/js/main.f9b97b68.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.836b95d8.js",
     "static/js/2.54842fc2.chunk.js": "/static/js/2.54842fc2.chunk.js",
     "static/js/3.6067a95b.chunk.js": "/static/js/3.6067a95b.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/2.54842fc2.chunk.js.LICENSE.txt": "/static/js/2.54842fc2.chunk.js.LICENSE.txt",
     "static/js/3.6067a95b.chunk.js.LICENSE.txt": "/static/js/3.6067a95b.chunk.js.LICENSE.txt",
     "static/js/4.30f5e0f2.chunk.js.LICENSE.txt": "/static/js/4.30f5e0f2.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/tyrael.151fb006.gif",
+    "static/media/index.css": "/static/media/ExocetReaperMedium.c0db6f63.woff",
     "static/media/action.f5ab5f35.mp3": "/static/media/action.f5ab5f35.mp3",
     "static/media/cubing.dab6536b.mp3": "/static/media/cubing.dab6536b.mp3",
     "static/media/select.c8ffb6ab.mp3": "/static/media/select.c8ffb6ab.mp3"
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.836b95d8.js",
     "static/js/2.54842fc2.chunk.js",
-    "static/css/main.c5255d68.chunk.css",
-    "static/js/main.b9fa4e86.chunk.js"
+    "static/css/main.6a3f0d3a.chunk.css",
+    "static/js/main.f9b97b68.chunk.js"
   ]
 }
