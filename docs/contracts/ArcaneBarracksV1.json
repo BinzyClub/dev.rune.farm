@@ -219,6 +219,48 @@
     {
       "inputs": [
         {
+          "internalType": "enum ArcaneItemLibraryV1.ArcaneItemSlot",
+          "name": "_slotId",
+          "type": "uint8"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_tokenId",
+          "type": "uint256"
+        }
+      ],
+      "name": "equip2",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "_address",
+          "type": "address"
+        },
+        {
+          "internalType": "enum ArcaneItemLibraryV1.ArcaneItemSlot",
+          "name": "_slotId",
+          "type": "uint8"
+        }
+      ],
+      "name": "getEquippedItem3",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
           "internalType": "address",
           "name": "_address",
           "type": "address"
@@ -988,6 +1030,24 @@
         }
       ],
       "name": "unequip",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "enum ArcaneItemLibraryV1.ArcaneItemSlot",
+          "name": "_slotId",
+          "type": "uint8"
+        },
+        {
+          "internalType": "uint256",
+          "name": "_tokenId",
+          "type": "uint256"
+        }
+      ],
+      "name": "unequip2",
       "outputs": [],
       "stateMutability": "nonpayable",
       "type": "function"
